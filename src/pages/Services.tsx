@@ -635,11 +635,9 @@ const Services = () => {
           }}>
               <div className="flex items-center justify-center mb-4">
                 <Shield className="text-green-400 mr-3 animate-pulse-glow" size={40} />
-                <h3 className="text-2xl font-bold">30-Day Growth Guarantee</h3>
+                <h3 className="text-2xl font-bold">90-Day Growth Guarantee</h3>
               </div>
-              <p className="text-lg text-white/90">
-                We're so confident in our results, we guarantee measurable growth within 30 days or your money back. No questions asked.
-              </p>
+              <p className="text-lg text-white/90">We're so confident in our results, we guarantee measurable growth within 90 days or your money back. No questions asked.</p>
             </motion.div>
           </motion.div>
         </div>
