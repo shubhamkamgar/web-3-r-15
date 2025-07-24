@@ -161,7 +161,7 @@ const Services = () => {
     text: "Award Winning"
   }, {
     icon: Users,
-    text: "500+ Clients"
+    text: "2500+ Clients"
   }, {
     icon: Clock,
     text: "24/7 Support"
