@@ -427,7 +427,7 @@ const Index = () => {
             icon: Clock,
             color: "from-blue-500 to-cyan-500"
           }, {
-            number: "2000+",
+            number: "2500+",
             label: "Businesses Transformed",
             icon: Users,
             color: "from-purple-500 to-pink-500"
