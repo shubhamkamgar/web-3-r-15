@@ -402,6 +402,18 @@ const Index = () => {
         </div>
       </section>
 
+
+
+
+
+
+
+
+
+
+
+
+      
       {/* Enhanced Company Video Section */}
       <section className="bg-gradient-to-r from-gray-50 to-blue-50 py-8 sm:py-12 md:py-16 lg:py-20 xl:py-24 px-3 sm:px-4 md:px-6 lg:px-8 relative overflow-hidden">
         {/* Floating elements for the video section */}
@@ -548,7 +560,7 @@ const Index = () => {
                     Company Introduction Video
                   </motion.h3>
                   <p className="text-blue-200 text-sm sm:text-base">Click to watch our story and approach</p>
-                  <p className="text-xs sm:text-sm text-blue-300 mt-2">Video URL: [Add your YouTube/Vimeo link here]</p>
+                  <p className="text-xs sm:text-sm text-blue-300 mt-2">Video URL: https://youtu.be/dQw4w9WgXcQ?si=xfEMB1VkbWx6SXrA </p>
                 </div>
               </div>
             </motion.div>
@@ -556,6 +568,28 @@ const Index = () => {
         </div>
       </section>
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
       {/* Enhanced Team Section */}
       <section className="bg-white py-8 sm:py-12 md:py-16 lg:py-20 xl:py-24 px-3 sm:px-4 md:px-6 lg:px-8 relative overflow-hidden">
         {/* Animated background elements */}
