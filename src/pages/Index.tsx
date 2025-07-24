@@ -775,11 +775,9 @@ const Index = () => {
             boxShadow: "0 25px 50px rgba(0,0,0,0.15)"
           }} className="relative rounded-2xl overflow-hidden shadow-2xl group">
 
-              
-              <img src="https://drive.google.com/file/d/1YRd4CW9yTi-ilwceroBu_OqBMRj4MitB/view?w=1200&h=600&fit=crop" alt="AI AdMaxify team working together" className="w-full h-[250px] sm:h-[300px] md:h-[400px] object-cover group-hover:scale-105 transition-transform duration-700" />
+            
 
-
-{/*               <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=600&fit=crop" alt="AI AdMaxify team working together" className="w-full h-[250px] sm:h-[300px] md:h-[400px] object-cover group-hover:scale-105 transition-transform duration-700" /> */}
+              <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=600&fit=crop" alt="AI AdMaxify team working together" className="w-full h-[250px] sm:h-[300px] md:h-[400px] object-cover group-hover:scale-105 transition-transform duration-700" />
 
 {/* =========================================== Team working photo ==============================================================*/}
 {/* =========================================== Team working photo ==============================================================*/}
