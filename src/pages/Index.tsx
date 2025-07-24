@@ -12,6 +12,14 @@ import { testimonials } from '@/data/testimonials';
 const Index = () => {
   const featuredTestimonials = testimonials.slice(0, 3);
 
+
+
+
+  // Team members data
+  // Team members data
+  // Team members data
+  // Team members data
+  
   // Team members data
   const teamMembers = [{
     name: "Alex Johnson",
@@ -31,6 +39,12 @@ const Index = () => {
     image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=300&h=300&fit=crop&crop=face"
   }];
 
+
+
+  // Client work showcase images
+  // Client work showcase images
+  // Client work showcase images
+    // Client work showcase images
   // Client work showcase images
   const clientWork = [{
     title: "E-commerce Growth Campaign",
@@ -54,6 +68,13 @@ const Index = () => {
     image: "https://images.unsplash.com/photo-1560472354-b33ff0c44a43?w=400&h=300&fit=crop"
   }];
 
+
+
+
+  // hero section text
+  // hero section text
+    // hero section text
+    // hero section text
   // Trust indicators with enhanced animations
   const trustIndicators = [{
     icon: Shield,
@@ -97,7 +118,23 @@ const Index = () => {
   }];
   return <>
       <Navbar />
-      
+
+
+
+
+
+
+
+
+
+   {/* =====================================Enhanced Hero Section ========================================= */}
+   {/* =====================================Enhanced Hero Section - Number khali ahe "Enhanced Hero Section - serch kar" ========================================= */}
+
+
+
+
+
+    
       {/* Enhanced Hero Section */}
       <section className="bg-gradient-to-br from-slate-900 via-blue-900 to-purple-900 text-white pt-16 sm:pt-20 md:pt-24 px-3 sm:px-4 md:px-6 lg:px-8 relative overflow-hidden">
         {/* Enhanced animated background elements */}
@@ -271,6 +308,23 @@ const Index = () => {
                   </motion.div>)}
               </motion.div>
 
+
+
+
+
+   {/* ========================  =============Enhanced Hero Section - end ========================================= */}
+   {/* ========================  =============Enhanced Hero Section - end ========================================= */}
+   {/* ========================  =============Enhanced Hero Section - end ========================================= */}
+   {/* ========================  =============Enhanced Hero Section - end ========================================= */}
+
+
+
+
+
+
+       {/* ========================== Enhanced CTA buttons ========================== */}
+
+              
               {/* Enhanced CTA buttons */}
               <motion.div className="flex flex-col sm:flex-row gap-3 sm:gap-4 justify-center px-3 sm:px-0" initial={{
               opacity: 0,
@@ -335,6 +389,22 @@ const Index = () => {
             </motion.div>
           </div>
 
+
+
+       {/* ========================== Enhanced CTA buttons - end ========================== */}
+       {/* ========================== Enhanced CTA buttons - end ========================== */}
+       {/* ========================== Enhanced CTA buttons - end ========================== */}
+
+
+{/*  ======================================================================================================================== */}
+
+
+          
+   {/* =====================================Enhanced Hero Section - Stats = Numbers ========================================= */}
+      {/* Enhanced Stats Section */}
+   {/* =====================================Enhanced Hero Section - Starts = Numbers ========================================= */}
+          
+
           {/* Enhanced Stats Section */}
           <motion.div initial={{
           opacity: 0,
@@ -347,7 +417,7 @@ const Index = () => {
           delay: 1
         }} className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 sm:gap-6 md:gap-8 mb-8 sm:mb-12 md:mb-16 px-3 sm:px-0">
             {[{
-            number: "300%",
+            number: "100%",
             label: "Average ROI Increase",
             icon: TrendingUp,
             color: "from-green-500 to-emerald-500"
@@ -357,7 +427,7 @@ const Index = () => {
             icon: Clock,
             color: "from-blue-500 to-cyan-500"
           }, {
-            number: "500+",
+            number: "2000+",
             label: "Businesses Transformed",
             icon: Users,
             color: "from-purple-500 to-pink-500"
@@ -412,16 +482,16 @@ const Index = () => {
         </div>
       </section>
 
+   {/* =====================================Enhanced Hero Section - Starts = Numbers - end ========================================= */}
 
 
 
 
 
 
-
-
-
-
+     {/* ================================== Enhanced Company Video Section =========================================== */}
+     {/* ================================== Enhanced Company Video Section =========================================== */}
+     {/* ================================== Enhanced Company Video Section =========================================== */}
 
       
       {/* Enhanced Company Video Section */}
@@ -581,6 +651,10 @@ const Index = () => {
 
 
 
+     {/* ================================== Enhanced Company Video Section - end =========================================== */}
+     {/* ================================== Enhanced Company Video Section - end  =========================================== */}
+     {/* ================================== Enhanced Company Video Section - end  =========================================== */}
+     {/* ================================== Enhanced Company Video Section - end  =========================================== */}
 
 
 
@@ -588,17 +662,9 @@ const Index = () => {
 
 
 
-
-
-
-
-
-
-
-
-
-
-
+     {/*====================================== The Experts Behind Your Success - start ===================================  */}
+     {/*====================================== Team Member Varti ahe data - Alex Johnson - Sarah Chen - Michael Rodriguez ===================================  */}
+     {/*====================================== Team Member Varti ahe data ===================================  */}
       
       {/* Enhanced Team Section */}
       <section className="bg-white py-8 sm:py-12 md:py-16 lg:py-20 xl:py-24 px-3 sm:px-4 md:px-6 lg:px-8 relative overflow-hidden">
@@ -686,6 +752,12 @@ const Index = () => {
             </motion.div>
           </div>
 
+
+
+         {/* =========================================== Team working photo ==============================================================*/}
+          {/* =========================================== Team working photo ==============================================================*/}
+          {/* =========================================== Team working photo ==============================================================*/}
+          
           {/* Team working photo */}
           <motion.div initial={{
           opacity: 0,
@@ -703,6 +775,11 @@ const Index = () => {
             boxShadow: "0 25px 50px rgba(0,0,0,0.15)"
           }} className="relative rounded-2xl overflow-hidden shadow-2xl group">
               <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1200&h=600&fit=crop" alt="AI AdMaxify team working together" className="w-full h-[250px] sm:h-[300px] md:h-[400px] object-cover group-hover:scale-105 transition-transform duration-700" />
+
+
+{/* =========================================== Team working photo ==============================================================*/}
+{/* =========================================== Team working photo ==============================================================*/}
+{/* =========================================== Team working photo ==============================================================*/}
               
               {/* Animated overlay */}
               <motion.div className="absolute inset-0 bg-gradient-to-t from-black/60 via-transparent to-transparent" whileHover={{
@@ -829,6 +906,24 @@ const Index = () => {
         </div>
       </section>
 
+
+
+     {/*====================================== The Experts Behind Your Success - end ===================================  */}
+     {/*====================================== The Experts Behind Your Success - end ===================================  */}
+     {/*====================================== The Experts Behind Your Success - end ===================================  */}
+     {/*====================================== The Experts Behind Your Success - end ===================================  */}
+
+
+
+
+
+    
+
+     {/*====================================== Transforming Businesses Across Industries - Start ===================================  */}
+     {/*====================================== Transforming Businesses Across Industries - Start ===================================  */}
+     {/*====================================== Transforming Businesses Across Industries - Start ===================================  */}
+
+    
       {/* Client Work Carousel */}
       <section className="bg-gradient-to-r from-blue-50 to-purple-50 py-8 sm:py-12 md:py-16 lg:py-20 xl:py-24 px-3 sm:px-4 md:px-6 lg:px-8">
         <div className="max-w-7xl mx-auto">
@@ -898,6 +993,19 @@ const Index = () => {
         </div>
       </section>
 
+     {/*====================================== Transforming Businesses Across Industries - end ===================================  */}
+    {/*====================================== Transforming Businesses Across Industries - end ===================================  */}
+    {/*====================================== Transforming Businesses Across Industries - end ===================================  */}
+
+
+
+
+
+
+      {/* ===================== Comprehensive AI Marketing Solutions - Start ============================ */}
+  {/* ========================== Services Section - AI Lead Generation - Performance Optimization ============== */}
+
+    
       {/* Services Section */}
       <section className="bg-white py-16 sm:py-20 lg:py-24 px-4 sm:px-6 lg:px-8">
         <div className="max-w-7xl mx-auto">
@@ -991,6 +1099,27 @@ const Index = () => {
         </div>
       </section>
 
+      {/* ===================== Comprehensive AI Marketing Solutions - end ============================ */}
+  {/* ========================== Services Section - AI Lead Generation - Performance Optimization ============== */}
+
+
+
+
+
+    
+
+
+
+
+
+  {/* ============================== Real Results from Real Clients - Start ==================================== */}
+  {/* ============================== Real Results from Real Clients - Start ==================================== */}
+  {/* ============================== Real Results from Real Clients - Start - image at the end ==================================== */}
+
+
+
+    
+
       {/* Results Section */}
       <section className="bg-gradient-to-r from-blue-50 to-purple-50 py-16 sm:py-20 lg:py-24 px-4 sm:px-6 lg:px-8">
         <div className="max-w-7xl mx-auto">
@@ -1021,11 +1150,11 @@ const Index = () => {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8 mb-16">
             {[{
-            number: "2,847%",
+            number: "10X",
             label: "Lead Generation Increase",
             icon: TrendingUp
           }, {
-            number: "300%",
+            number: "100%",
             label: "Average ROI Boost",
             icon: DollarSign
           }, {
@@ -1033,7 +1162,7 @@ const Index = () => {
             label: "Days to Results",
             icon: Clock
           }, {
-            number: "99%",
+            number: "97%",
             label: "Client Satisfaction",
             icon: Heart
           }].map((stat, index) => <motion.div key={index} initial={{
@@ -1109,6 +1238,24 @@ const Index = () => {
         </div>
       </section>
 
+
+ {/* ============================== Real Results from Real Clients - end ==================================== */}
+{/* ============================== Real Results from Real Clients - end ==================================== */}
+{/* ============================== Real Results from Real Clients - end ==================================== */}
+{/* ============================== Real Results from Real Clients - end ==================================== */}
+
+
+
+
+
+
+
+   {/*====================================== What Our Clients Say - Start Sarah Johnson Marcus Thompson Elena Rodriguez ===================================  */}
+      {/* ================================ What Our Clients Say - start ==================================== */}
+      {/* ================================ What Our Clients Say - start ==================================== */}
+      {/* ================================ What Our Clients Say - start ==================================== */}
+          {/* ================================ What Our Clients Say - start ==================================== */}
+    
       {/* Testimonials Section */}
       <section className="bg-white py-16 sm:py-20 lg:py-24 px-4 sm:px-6 lg:px-8">
         <div className="max-w-7xl mx-auto">
@@ -1172,6 +1319,23 @@ const Index = () => {
           </div>
         </div>
       </section>
+
+
+      {/* ================================ What Our Clients Say - end ==================================== */}
+     {/* ================================ What Our Clients Say - end ==================================== */}
+     {/* ================================ What Our Clients Say - end ==================================== */}
+     {/* ================================ What Our Clients Say - end ==================================== */}
+
+
+
+
+
+      {/* ===================================== Ready to Transform Your Marketing? =============================== */}
+      {/* ===================================== Ready to Transform Your Marketing? =============================== */}
+      {/* ===================================== Ready to Transform Your Marketing? =============================== */}
+      {/* ===================================== Ready to Transform Your Marketing? =============================== */}
+    
+    
 
       {/* Enhanced CTA Section */}
       <section className="bg-gradient-to-r from-blue-600 via-purple-600 to-blue-600 text-white py-16 sm:py-20 lg:py-24 px-4 sm:px-6 lg:px-8 relative overflow-hidden">
