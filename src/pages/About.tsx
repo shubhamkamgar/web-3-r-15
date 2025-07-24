@@ -60,7 +60,7 @@ const About = () => {
   // Stats Data
   const stats = [
     { 
-      value: "500++", 
+      value: "2500+", 
       label: "Happy Clients",
       description: "Satisfied clients worldwide",
       icon: Users, 
@@ -68,7 +68,7 @@ const About = () => {
       bg: "bg-blue-500"
     },
     { 
-      value: "95%", 
+      value: "97%", 
       label: "Success Rate",
       description: "Project completion rate",
       icon: TrendingUp, 
@@ -76,7 +76,7 @@ const About = () => {
       bg: "bg-green-500"
     },
     { 
-      value: "15", 
+      value: "4", 
       label: "Awards Won",
       description: "Industry recognitions",
       icon: Trophy, 
@@ -84,7 +84,7 @@ const About = () => {
       bg: "bg-purple-500"
     },
     { 
-      value: "300%", 
+      value: "100%", 
       label: "Growth Rate",
       description: "Average client growth",
       icon: Gauge, 
