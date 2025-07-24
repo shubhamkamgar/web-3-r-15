@@ -32,11 +32,11 @@ const Contact = () => {
     gradient: "from-blue-500 to-cyan-500"
   }];
   const stats = [{
-    number: "500+",
+    number: "2500+",
     label: "Happy Clients",
     icon: Users
   }, {
-    number: "25X",
+    number: "10X",
     label: "Avg ROI",
     icon: TrendingUp
   }, {
@@ -44,7 +44,7 @@ const Contact = () => {
     label: "Support",
     icon: Headphones
   }, {
-    number: "98%",
+    number: "97%",
     label: "Satisfaction",
     icon: Star
   }];
