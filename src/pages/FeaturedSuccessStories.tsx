@@ -81,15 +81,17 @@ const FeaturedSuccessStories = () => {
             {/* Quick Stats */}
             <div className="grid grid-cols-2 md:grid-cols-4 gap-6 max-w-4xl mx-auto mb-8">
               <div className="bg-white/10 backdrop-blur-sm rounded-lg p-4">
-                <div className="text-3xl font-bold text-purple-400">{totalClients}+</div>
+                <div className="text-3xl font-bold text-purple-400">     2500+    </div>
+{/*                                 <div className="text-3xl font-bold text-purple-400">{totalClients}+</div> */}
                 <div className="text-sm text-gray-300">Success Stories</div>
               </div>
               <div className="bg-white/10 backdrop-blur-sm rounded-lg p-4">
-                <div className="text-3xl font-bold text-blue-400">{averageImprovement}%</div>
+                <div className="text-3xl font-bold text-blue-400">       10X      </div>
+{/*                                   <div className="text-3xl font-bold text-blue-400">{averageImprovement%</div> */}
                 <div className="text-sm text-gray-300">Avg Improvement</div>
               </div>
               <div className="bg-white/10 backdrop-blur-sm rounded-lg p-4">
-                <div className="text-3xl font-bold text-green-400">15+</div>
+                <div className="text-3xl font-bold text-green-400">  15+     </div>
                 <div className="text-sm text-gray-300">Industries</div>
               </div>
               <div className="bg-white/10 backdrop-blur-sm rounded-lg p-4">
